@@ -390,8 +390,8 @@ button:focus {
 }
 
 .stack-title {
-	font-size: 2.25em;
-	font-weight: 700;
+	font-size: 2em;
+	font-weight: 650;
 	margin: 80px 0 30px;
 	padding: 50px 40px 15px;
 	text-align: center;
@@ -677,7 +677,7 @@ button:focus {
 	text-align: center;
 	display: -webkit-flex;
 	display: -ms-flexbox;
-	display: flex; 
+	display: flex;
 	-webkit-flex-wrap: wrap;
 	flex-wrap: wrap;
 	-webkit-justify-content: space-between;
@@ -757,7 +757,7 @@ button:focus {
 	.codrops-header {
 		padding: 0.5em 0;
 	}
-	.stack.stack-prev .stack-title::after, 
+	.stack.stack-prev .stack-title::after,
 	.stack.stack-next .stack-title::after {
 		top: 1.85em;
 	}
